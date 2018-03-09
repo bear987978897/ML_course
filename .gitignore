@@ -1,0 +1,9 @@
+#macOS file
+.DS_Store
+
+#pdf
+*.pdf
+
+#data
+*.csv
+data/
